@@ -1,4 +1,4 @@
-# A-0.01-precise-Multi-Star-Rating-Plugin-using-jQuery-and-Ajax
+# A 0.01 precise Multi Star Rating Plugin using jQuery and Ajax
 You can modify the script as you wish so that it corresponds exactly to your needs.
 The script is provided "as is", without warranty of any kind.
 If you use this script on your website, you are required, as a courtesy, to keep the link live to the home page of 1two.org, acting as a copyright notice. You are allowed to place the link elsewhere on your page(s), in content, a column or the footer for example.
